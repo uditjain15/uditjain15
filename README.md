@@ -87,7 +87,7 @@ I enjoy solving problems, learning new technologies, and continuously improving 
 
 <img src="https://skillicons.dev/icons?i=maven"/>
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<img src="https://skillicons.dev/icons?i=hibernate"/>
 
 </p>
 
